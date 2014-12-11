@@ -1,0 +1,17 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Gap Sans
+  tags:
+  - sans-serif
+  - fork
+  repository url: https://github.com/Interstices-/GapSans
+  project url: https://interstices.io
+  tools:
+  - Fontforge
+  similar fonts:
+  - Sani Trixie Sans
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
