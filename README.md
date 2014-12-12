@@ -3,7 +3,7 @@
 A fork from [Sani Trixie Sans typeface](http://openfontlibrary.org/en/font/sani-trixie-sans) by GrandChaos9000.
 
 ## Specimen
-!(specimen)[https://raw.githubusercontent.com/Interstices-/GapSans/master/documentation/specimen/web/Specimen.jpg]
+![specimen](https://raw.githubusercontent.com/Interstices-/GapSans/master/documentation/specimen/web/Specimen.jpg)
 
 
 ## License
