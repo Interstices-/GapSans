@@ -5,6 +5,7 @@ A fork from [Sani Trixie Sans typeface](http://openfontlibrary.org/en/font/sani-
 ## Specimen
 ![specimen](https://raw.githubusercontent.com/Interstices-/GapSans/master/documentation/specimen/web/Specimen.jpg)
 ![specimen](https://raw.githubusercontent.com/Interstices-/GapSans/master/documentation/specimen/web/Specimen12.jpg)
+![specimen](https://raw.githubusercontent.com/Interstices-/GapSans/master/documentation/specimen/web/Specimen5.jpg)
 
 ## License
 
